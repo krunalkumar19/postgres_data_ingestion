@@ -24,12 +24,3 @@ A lightweight, containerized web application that allows users to enter sales da
 - Docker + Docker Compose
 
 ---
-
-## 📁 Folder Structure
-
-flask_sales_app/
-├── docker-compose.yaml
-├── flask_app/
-│ ├── Dockerfile
-│ └── app.py
-└── README.md
